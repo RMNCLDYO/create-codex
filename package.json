@@ -1,11 +1,11 @@
 {
   "name": "create-codex",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "AGENTS.md setup that just works. Bootstrap every project with a config file that works with most of your favorite code editors. One command, zero headaches.",
   "type": "module",
   "sideEffects": false,
   "private": false,
-  "packageManager": "npm@11.6.0",
+  "packageManager": "npm@11.7.0",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
   "exports": {
@@ -106,9 +106,7 @@
   "preferGlobal": false,
   "stability": "stable",
   "devDependencies": {
-    "@types/node": "^24.5.2",
+    "@types/node": "^24.10.2",
     "typescript": "^5.9.3"
-    "@types/node": "^24.10.0",
-    "typescript": "^5.9.2"
   }
 }
